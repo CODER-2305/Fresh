@@ -16,7 +16,7 @@ a {
 }
 
 .header {
-    background: url(/img/backround.png) no-repeat center / cover;
+    background: url(./img/backround.png) no-repeat center / cover;
     background-position: top;
 }
 .nav {
